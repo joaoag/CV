@@ -1,6 +1,6 @@
 ## João Abbott-Gribben
 
-Artist and soon to be junior full stack developer. Equally confident with image and text; over a decade's experience spanning editor, writer, designer and artist roles. I'm looking for an organisation that values clean and tested code, agile working practices and continued learning. 
+Artist, writer and soon to be junior full stack developer. Equally confident with image and text; over a decade's experience spanning editor, writer, designer and artist roles. I'm looking for an organisation that values clean and tested code, agile working practices and continued learning. 
 
 ## Skills
 
