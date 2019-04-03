@@ -6,14 +6,14 @@
 
 ## Experience
 
-|**Project**|**Description**|**Tech stack**|**Testing**|
+|**Project**|**Description**|**Languages & Technologies**|**Testing**|
 |:-----:|:-----:|:-----:|:-----:|
-|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)| Final project at Makers Academy | Javascript, React.js, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge | Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
+|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)| Final project at Makers Academy | HTML/CSS, Javascript, React.js, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge | Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
 |Gilded Rose JS| Tech test week project | Javascript | Jasmine, ESlint |
 |Bank Tech Test | Tech test week project | Ruby | RSpec, SimpleCov, Rubocop |
 |Chitter | Twitter clone | Ruby, Sinatra, Datamapper  | RSpec, SimpleCov, Capybara, Rubocop |
-|Instaclone | Title says it all... | Ruby, Rails, ActiveRecord with PG, Travis CI  | RSpec, SimpleCov, Capybara, Rubocop |
-|Event Planner (SPA) | JS event planner | Javascript  | Jasmine, Custom testing framework |
+|Instaclone | Title says it all... | HTML/CSS, Ruby, Rails, ActiveRecord with PG, Travis CI  | RSpec, SimpleCov, Capybara, Rubocop |
+|Event Planner (SPA) | JS event planner | HTML/CSS, Javascript  | Jasmine, Custom testing framework |
 
 
 
