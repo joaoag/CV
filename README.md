@@ -10,14 +10,14 @@
 
 #### Projects
 
-|**Project**|**Description**|**Languages & Technologies**|**Testing**|
+|**Project**|**Timeframe**|**Description**|**Languages & Technologies**|
 |:-----:|:-----:|:-----:|:-----:|
-|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)| Final project at Makers Academy | Javascript, JSX, React.js, CSS, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge | Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
-|Gilded Rose JS| Tech test week project | Javascript | Jasmine, ESlint |
-|Bank Tech Test | Tech test week project | Ruby | RSpec, SimpleCov, Rubocop |
-|Chitter | Twitter clone | Ruby, Sinatra, Datamapper  | RSpec, SimpleCov, Capybara, Rubocop |
-|Instaclone | Title says it all... | Ruby, Rails, ActiveRecord with PG, HTML, CSS, Travis CI  | RSpec, SimpleCov, Capybara, Rubocop |
-|Event Planner (SPA) | JS event planner | Javascript, HTML, CSS  | Jasmine, Custom testing framework |
+|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)| 2 weeks|Final project at Makers Academy | Javascript, JSX, React.js, CSS, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge. Tested with Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
+|Gilded Rose JS| 3 days | Tech test week project | Javascript. Tested with Jasmine, ESlint |
+|Bank Tech Test | 3 days | Tech test week project | Ruby. Tested with RSpec, SimpleCov, Rubocop |
+|Chitter | 2 days | Twitter clone | Ruby, Sinatra, Datamapper. Tested with RSpec, SimpleCov, Capybara, Rubocop |
+|Instaclone | 2 days| Title says it all... | Ruby, Rails, ActiveRecord with PG, HTML, CSS. Tested with Travis CI, RSpec, SimpleCov, Capybara, Rubocop |
+| Event Planner (SPA) | 4 days | JS event planner | Javascript, HTML, CSS. Tested with Jasmine and my custom testing framework |
 
 #### Processes
 
