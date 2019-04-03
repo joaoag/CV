@@ -1,6 +1,8 @@
 ## João Abbott-Gribben
 
-Artist, writer and soon to be junior full stack developer. Equally confident with image and text; over a decade's experience spanning editor, writer, designer and artist positions. I'm looking for an organisation that values clean and tested code, agile working practices and continual learning. 
+I'm a full stack developer with a background in art and writing. A recent graduate from Makers Academy, I'm now looking to join an organisation that values clean code, agile working practices and continual learning. I love learning new technologies, pairing, solving puzzles and writing well-designed and test-driven code.
+
+Before joining Makers I split my time between my art practice, writing and administrative work. I enjoyed how systematic and efficient you had to be for administration, but it didn't offer the intellectual and creative challenges of art and writing. 
 
 ## Skills
 
@@ -76,7 +78,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
