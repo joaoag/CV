@@ -6,7 +6,7 @@
 
 ## Experience
 
-## Projects
+#### Projects
 
 |**Project**|**Description**|**Languages & Technologies**|**Testing**|
 |:-----:|:-----:|:-----:|:-----:|
@@ -17,7 +17,7 @@
 |Instaclone | Title says it all... | Ruby, Rails, ActiveRecord with PG, HTML, CSS, Travis CI  | RSpec, SimpleCov, Capybara, Rubocop |
 |Event Planner (SPA) | JS event planner | Javascript, HTML, CSS  | Jasmine, Custom testing framework |
 
-## Processes
+#### Processes
 
 
 ## Skills
