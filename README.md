@@ -6,6 +6,8 @@
 
 ## Experience
 
+## Projects
+
 |**Project**|**Description**|**Languages & Technologies**|**Testing**|
 |:-----:|:-----:|:-----:|:-----:|
 |KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)| Final project at Makers Academy | Javascript, JSX, React.js, CSS, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge | Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
@@ -15,7 +17,7 @@
 |Instaclone | Title says it all... | Ruby, Rails, ActiveRecord with PG, HTML, CSS, Travis CI  | RSpec, SimpleCov, Capybara, Rubocop |
 |Event Planner (SPA) | JS event planner | Javascript, HTML, CSS  | Jasmine, Custom testing framework |
 
-
+## Processes
 
 
 ## Skills
