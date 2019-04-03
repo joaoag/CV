@@ -12,8 +12,8 @@
 |Gilded Rose JS| Tech test week project | Javascript | Jasmine, ESlint |
 |Bank Tech Test | Tech test week project | Ruby | RSpec, SimpleCov, Rubocop |
 |Chitter | Twitter clone | Ruby, Sinatra, Datamapper  | RSpec, SimpleCov, Capybara, Rubocop |
-|Instaclone | Title says it all... | HTML/CSS, Ruby, Rails, ActiveRecord with PG, Travis CI  | RSpec, SimpleCov, Capybara, Rubocop |
-|Event Planner (SPA) | JS event planner | HTML/CSS, Javascript  | Jasmine, Custom testing framework |
+|Instaclone | Title says it all... | Ruby, Rails, ActiveRecord with PG, HTML, CSS, Travis CI  | RSpec, SimpleCov, Capybara, Rubocop |
+|Event Planner (SPA) | JS event planner | Javascript, HTML, CSS  | Jasmine, Custom testing framework |
 
 
 
