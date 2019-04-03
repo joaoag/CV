@@ -9,7 +9,8 @@
 |**Project**|**Description**|**Technologies used**|**Testing**|
 |:-----:|:-----:|:-----:|:-----:|
 |KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)| Final project at Makers Academy | Javascript, React.js, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge | Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
-|Gilded Rose JS| Tech test week project | Javascript | Jasmine, ESlint || Bank Tech Test | Tech test week project | Ruby | RSpec, Rubocop |
+|Gilded Rose JS| Tech test week project | Javascript | Jasmine, ESlint |
+|Bank Tech Test | Tech test week project | Ruby | RSpec, Rubocop |
 
 
 
