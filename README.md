@@ -1,4 +1,4 @@
-<h1 align="center">João Abbott-Gribben</h1>
+<h1 align="center">João Abbott-Gribben\n</h1>
 
 
 I'm a full stack developer with a background in art and writing. A recent graduate from [Makers Academy](https://makers.tech/hire/), I'm now looking to join an organisation that values clean code, agile working practices and continual learning. I love learning new technologies, pairing, solving puzzles and writing well-designed and test-driven code.
