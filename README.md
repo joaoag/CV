@@ -12,6 +12,7 @@
 |Gilded Rose JS| Tech test week project | Javascript | Jasmine, ESlint |
 |Bank Tech Test | Tech test week project | Ruby | RSpec, SimpleCov, Rubocop |
 |Chitter | Twitter clone | Ruby, Sinatra, Datamapper  | RSpec, SimpleCov, Capybara, Rubocop |
+|Instaclone | Title says it all... | Ruby, Rails, ActiveRecord with PG, Travis CI  | RSpec, SimpleCov, Capybara, Rubocop |
 
 
 
