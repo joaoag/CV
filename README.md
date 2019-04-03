@@ -18,7 +18,6 @@
 
 
 
-
 ## Skills
 
 #### Fast learner
