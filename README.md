@@ -16,7 +16,7 @@
 |Gilded Rose JS| 3 days | Tech test week project | Javascript</br> Tested with Jasmine, ESlint |
 |Bank Tech Test | 3 days | Tech test week project | Ruby</br> Tested with RSpec, SimpleCov, Rubocop |
 |Chitter | 2 days | Twitter clone | Ruby, Sinatra, Datamapper</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
-|Instaclone | 2 days| Title says it all... | Ruby, Rails, ActiveRecord, PostgreSQL, HTML, CSS</br> Tested with Travis CI, RSpec, SimpleCov, Capybara, Rubocop |
+|Instaclone | 2 days| Title says it all... | Ruby, Rails, ActiveRecord, PostgreSQL, HTML, CSS</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
 | Event Planner (SPA) | 4 days | JS event planner | Javascript, HTML, CSS</br> Tested with Jasmine and my custom testing framework |
 
 #### Processes
