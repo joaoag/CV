@@ -1,7 +1,7 @@
 <h1 align="center">João Abbott-Gribben</h1>
 I'm a full stack developer with a background in art and writing. A recent graduate from <a href="https://makers.tech/hire/">Makers Academy</a>, I'm now looking to join an organisation that values clean code, agile working practices and continual learning. I love learning new technologies, pairing, solving puzzles and writing well-designed and test-driven code.
 
-Before joining Makers I split my time between writing, my art practice and administrative work. The administration was enjoyably systematic and efficient but it didn't offer the intellectual and creative challenges of art and writing, so I started to look for something new. After working on [The Odin Project](https://www.theodinproject.com/courses) and Codecademy for a few months, I knew that programming was for me.
+Before joining Makers I split my time between writing, my art practice and administrative work. The administration was enjoyably systematic and efficient but it didn't offer the intellectual and creative challenges of art and writing, so I started to look for something new. After working on <a href=https://www.theodinproject.com/courses>The Odin Project </a> and Codecademy for a few months, I knew that programming was for me.
 
 ## Skills
 
