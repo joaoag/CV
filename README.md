@@ -20,6 +20,7 @@
 #### Processes
 
 Alongisde learning to code, Makers instills industry best practices in its developers. These are some of the processes I've come to love:
+|Agile|Blah blah blah| 
 |:-----:|:-----:|
 |Agile|Blah blah blah| 
 
