@@ -6,6 +6,8 @@ Before joining Makers I split my time between writing, my art practice and admin
 
 ## Skills
 
+
+
 #### Fast learner
 
 I consistently add value to my colleagues and employer in short space of time through the pace of my learning and my ability to assess the qualities and outcomes required by the role. 
