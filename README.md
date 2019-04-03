@@ -2,7 +2,7 @@
 
 I'm a full stack developer with a background in art and writing. A recent graduate from Makers Academy, I'm now looking to join an organisation that values clean code, agile working practices and continual learning. I love learning new technologies, pairing, solving puzzles and writing well-designed and test-driven code.
 
-Before joining Makers I split my time between my art practice, writing and administrative work. I enjoyed how systematic and efficient you had to be for administration, but it didn't offer the intellectual and creative challenges of art and writing. 
+Before joining Makers I split my time between writing, my art practice and administrative roles. The administrative work was enjoyably systematic and efficient, but it didn't offer the intellectual and creative challenges of art and writing. After working on [The Odin Project](https://www.theodinproject.com/home)
 
 ## Skills
 
