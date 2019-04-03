@@ -8,6 +8,7 @@
 
 |**Project**|**Description**|**Technologies used**|**Testing**|
 |:-----:|:-----:|:-----:|:-----:|
+|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)|My final project at Makers Academy |Javascript, React.js, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge|Jest, Enzyme, RSpec, ESlint, Rubocop, SimpleCov|
 
 
 
