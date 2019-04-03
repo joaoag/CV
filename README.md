@@ -3,6 +3,13 @@
 <br>
 <p>Before joining Makers I split my time between writing, my art practice and administrative work. The administration was enjoyably systematic and efficient but it didn't offer the intellectual and creative challenges of art and writing, so I started to look for something new. After working on <a href=https://www.theodinproject.com/courses>The Odin Project </a> and Codecademy for a few months, I knew that programming was for me.</p>
 
+
+## Experience
+
+|**Project**|**Description**|**Technologies used**|**Testing**|
+
+
+
 ## Skills
 
 #### Fast learner
