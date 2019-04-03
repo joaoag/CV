@@ -25,8 +25,9 @@ Alongisde learning to code, Makers instills industry best practices in its devel
 
 * Agile working practices: 
 * TDD
+* Git workflow
 * Clean code: SOLID, DRY, KISS + Sandi Metz's TRUE
-* Growth mindset
+* Growth mindset and independent learning
 
 ## Skills
 
