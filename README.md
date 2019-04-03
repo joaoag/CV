@@ -13,6 +13,7 @@
 |Bank Tech Test | Tech test week project | Ruby | RSpec, SimpleCov, Rubocop |
 |Chitter | Twitter clone | Ruby, Sinatra, Datamapper  | RSpec, SimpleCov, Capybara, Rubocop |
 |Instaclone | Title says it all... | Ruby, Rails, ActiveRecord with PG, Travis CI  | RSpec, SimpleCov, Capybara, Rubocop |
+|Event Planner (SPA) | JS event planner | Javascript  | Jasmine, Custom testing framework |
 
 
 
