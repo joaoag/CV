@@ -25,7 +25,7 @@
 <h1 align="center"> Skills</h1>
 <h2 align="center"> Writing clean & well-crafted code</h2>
 
-At Makers we’re taught the a range of industry best practices for multiple stages of the software cycle. Initially quite theoretical, their benefits quickly became concrete over the numerous group and individual projects. I’ve learnt and become a huge advocate for Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI), and clean code designed with SOLID, DRY, KISS + Sandi Metz's TRUE in mind.
+At Makers we’re taught language-agnostic programming and a range of industry best practices for multiple stages of the software cycle. Initially quite theoretical, their benefits quickly became concrete over the numerous group and individual projects. I’ve learnt and become a huge advocate for Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI), and clean code designed with SOLID, DRY, KISS + Sandi Metz's TRUE in mind. 
 <br>
 <h2 align="center">Collaboration & communication</h2>
 The collaborating and communicating skills I’ve honed as an artist and writer were further developed by the pair programming and agile practices we were taught at Makers. Open, regular and constructive communication is hugely important to me and I always take steps to do what I can to ensure this happens in the teams I work in. I’ve consistently found that the most productive teams are those where everyone feels valued and heard and difficult conversations are approached with a no-blame solution-orientated approach. These are also the happiest teams!
