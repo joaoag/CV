@@ -8,6 +8,13 @@
 
 <h1 align="center"> Experience</h1>
 
+<h2 align="center"> Processes</h2>
+
+Makers instills industry best practices in its developers, all of the above projects were made by applying:
+
+* Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI etc.)
+* Clean code design and refactoring: SOLID, DRY, KISS + Sandi Metz's TRUE
+* Growth mindset and conscious methodical processes for debugging, researching, modelling etc.
 <h2 align="center"> Projects</h2>
 
 |**Project**|**Timeframe**|**Description**|**Languages & Technologies**|
@@ -19,13 +26,6 @@
 |[Instaclone](https://github.com/joaoag/Instaclone) | 2 days| Made in week 8 of Makers, working with images and rails was very satisfying and again I was happy with the balance between front and back end performance. | Ruby, Rails, ActiveRecord, PostgreSQL, HTML, CSS</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
 |[Event Planner (SPA)](https://github.com/joaoag/event_planner_spa_js) | 4 days | Second week of using javascript so was pleased to implement local storage and get my app talking to a weather API. Tested using a framework written the week prior. | Javascript, HTML, CSS</br> Tested with Jasmine and my custom testing framework |
 
-<h2 align="center"> Processes</h2>
-
-Makers instills industry best practices in its developers, all of the above projects were made by applying:
-
-* Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI etc.)
-* Clean code design and refactoring: SOLID, DRY, KISS + Sandi Metz's TRUE
-* Growth mindset and conscious methodical processes for debugging, researching, modelling etc.
 <br>
 
 <h1 align="center"> Skills</h1>
