@@ -4,11 +4,11 @@
 <p>I'm a full stack developer with a background in art and writing. A recent graduate from <a href="https://makers.tech/hire/">Makers Academy</a>, I'm now looking to join an organisation that values clean code, agile working practices and continual learning. I love learning new technologies, pairing, solving puzzles and writing well-designed and test-driven code.</p>
 <br>
 <p>Before joining Makers I split my time between writing, my art practice and administrative work. The administration was enjoyably systematic and efficient but it didn't offer the intellectual and creative challenges of art and writing, so I started to look for something new. After working on <a href=https://www.theodinproject.com/courses>The Odin Project </a> and Codecademy for a few months, I knew that programming was for me.</p>
+<br>
 
+<h1 align="center"> Experience</h1>
 
-## Experience
-
-#### Projects
+<h2 align="center"> Projects</h2>
 
 |**Project**|**Timeframe**|**Description**|**Languages & Technologies**|
 |:-----:|:-----:|:-----:|:-----:|
@@ -19,7 +19,7 @@
 |[Instaclone](https://github.com/joaoag/Instaclone) | 2 days| Made in week 8 of Makers, working with images and rails was very satisfying and again I was happy with the balance between front and back end performance. | Ruby, Rails, ActiveRecord, PostgreSQL, HTML, CSS</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
 |[Event Planner (SPA)](https://github.com/joaoag/event_planner_spa_js) | 4 days | Second week of using javascript so was pleased to implement local storage and get my app talking to a weather API. Tested using a framework written the week prior. | Javascript, HTML, CSS</br> Tested with Jasmine and my custom testing framework |
 
-#### Processes
+<h2 align="center"> Processes</h2>
 
 Makers instills industry best practices in its developers, all of the above projects were made by applying:
 
