@@ -32,15 +32,33 @@ Makers instills industry best practices in its developers, all of the below proj
 
 <h1 align="center"> Skills</h1>
 
-Teamwork / communication Y "Highly collaborative"
-Enthusiasm / passion N 
-Determination / dedication / "Highly motivated"
-Craftsmanship / pride in your code "Diligent"
-Learning / curiosity "Fast learner"
-Flexibility
+<h2 align="center">Collaborative</h2>
++ communication mention
+- Line mag, Journal: collab achievements
+- Exhibition w. Emilie: collab achievement
+- STAT: small office team rely on each other's support and supporting each other
 
-<h2 align="center">Curiosity & fast learning</h2>
 
+<h2 align="center">Diligent</h2> 
+Taking pride in work, code craftsmanship
+Attentive and diligent paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+<h2 align="center">Highly motivated</h2> 
+Determined / dedicated
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+
+<h2 align="center">Fast learner</h2>
 
 + add something about curiosity
 I consistently add value to my colleagues and employer in short space of time through the pace of my learning and my ability to assess the qualities and outcomes required by the role. 
@@ -67,30 +85,7 @@ Multiple variables (articles, images, writers, subeditors etc.) in constant flux
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-<h2 align="center">Collaborative</h2>
-+ communication mention
-- Line mag, Journal: collab achievements
-- Exhibition w. Emilie: collab achievement
-- STAT: small office team rely on each other's support and supporting each other
 
-
-<h2 align="center">Diligent</h2> 
-Taking pride in work, code craftsmanship
-Attentive and diligent paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-<h2 align="center">Highly motivated</h2> 
-Determined / dedicated
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 <h1 align="center"> Education</h1>
 
