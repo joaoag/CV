@@ -46,7 +46,7 @@ Solving problems, independent learning and working through adversity are hugely 
 #### 2007-2008: Cambridge Regional College: Art Foundation.
 #### 2005-2007: Hills Road Sixth Form: A-levels. AAA (Art, PE and Philosophy)
 
-<h1 align="center"> Exhibitions / Publications </h1>
+## Exhibitions & Publications
 Overview of my writing, editing, design and exhibition history [here] (https://files.cargocollective.com/344894/J-Abbott-Gribben-CV-May-2018.pdf)
 Photographic documentation and exhibition texts of my most recent [exhibitions] (https://joaoabbottgribben.com/Exhibitions)
 
