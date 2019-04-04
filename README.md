@@ -103,5 +103,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Administrative Officer*  
 **Harlow Council** (Sep 2014 - Nov 2016)   
 *Technical & Administrative Support Officer*  
-**Natural England** (Sep 2013 – Sep 2014)
+**Natural England** (Sep 2013 – Sep 2014)  
 *Customer Advisor*
