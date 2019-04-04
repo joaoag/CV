@@ -89,10 +89,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 <h1 align="center"> Education</h1>
 
-#### Makers Academy (November 2018 - March 2019)
-#### University of Edinburgh: MA Fine Art, Honours History of Art (2008 to 2013) 2:1 (Distinction History of Art)
-#### Cambridge Regional College: Art Foundation (2007 to 2008)
-#### Hills Road Sixth Form (2005-2007) Art A, PE A, Philosophy A
+#### November 2018 - March 2019: Makers Academy
+#### 2008-2013: University of Edinburgh: MA Fine Art, Honours History of Art. 2:1 (Distinction History of Art)
+#### 2007-2008: Cambridge Regional College: Art Foundation
+#### 2005-2007: Hills Road Sixth Form  Art A, PE A, Philosophy A
 
 #### Any other qualifications
 
