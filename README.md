@@ -9,15 +9,6 @@
 
 <h1 align="center"> Experience</h1>
 
-<h2 align="center"> Processes</h2>
-
-Makers instills industry best practices in its developers, all of the below projects were made by applying:
-
-* Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI etc.)
-* Clean code design and refactoring: SOLID, DRY, KISS + Sandi Metz's TRUE
-* Growth mindset and conscious methodical processes for debugging, researching, modelling etc.
-<br>
-
 <h2 align="center"> Projects</h2>
 
 |**Project**|**Timeframe**|**Description**|**Languages & Technologies**|
@@ -32,7 +23,14 @@ Makers instills industry best practices in its developers, all of the below proj
 <br>
 
 <h1 align="center"> Skills</h1>
+<h2 align="center"> Clean coder</h2>
 
+Makers instills industry best practices in its developers, all of the below projects were made by applying:
+
+* Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI etc.)
+* Clean code design and refactoring: SOLID, DRY, KISS + Sandi Metz's TRUE
+* Growth mindset and conscious methodical processes for debugging, researching, modelling etc.
+<br>
 <h2 align="center">Collaborative</h2>
 + communication mention
 - Line mag, Journal: collab achievements
