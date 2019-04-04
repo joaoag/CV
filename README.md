@@ -23,35 +23,20 @@
 <br>
 
 <h1 align="center"> Skills</h1>
-<h2 align="center"> Writing Clean & Well-Crafted Code</h2>
+<h2 align="center"> Writing clean & well-crafted code</h2>
 
 At Makers we’re taught the a range of industry best practices for multiple stages of the software cycle. Initially quite theoretical, their benefits quickly became concrete over the numerous group and individual projects. I’ve learnt and become a huge advocate for Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI), OOP, and clean code designed with SOLID, DRY, KISS + Sandi Metz's TRUE in mind.
 <br>
-<h2 align="center">Collaboration & Communication</h2>
+<h2 align="center">Collaboration & communication</h2>
 The collaborating and communicating skills I’ve honed as an artist and writer were further developed by the pair programming and agile practices we were taught at Makers. Open, regular and constructive communication is hugely important to me and I always take steps to do what I can to ensure this happens in the teams I work in. I’ve consistently found that the most productive teams are those where everyone feels valued and heard and difficult conversations are approached with a no-blame solution-orientated approach. These are also the happiest teams!
 
 
-<h2 align="center">Diligence & Attention to Detail</h2> 
+<h2 align="center">Diligence & attention to detail</h2> 
 Whether it’s writing clean code or keeping on top of office administration, I take pleasure in doing things well and learning how they can be done better. For me attention to detail starts at the code I’ve written and keeps expanding from there: I’m passionate about details and consistency at all stages and environments of software development projects. I take as much pride in my code craftsmanship as I do in considerate communication, keeping the task board up to date or uniform commit messages (semantic commits, absolutely love them). 
 
 
-<h2 align="center">High motivation & Independence </h2> 
+<h2 align="center">High motivation & independence </h2> 
 Solving problems, independent learning and working through adversity are hugely rewarding and motivating processes to me. As an artist I’m used to persevering through endless iterations of something ‘not working’ until I get the skills or knowledge required for a breakthrough. At Makers we develop conscious and methodical processes for how to solve problems and learn new skills. More importantly, I’ve practised these processes countless times on the course with really positive results. So when times are dark and I find I’ve made an incorrect assumption, or if there’s a nasty bug (or both, as it often goes) I know that I have the processes and motivation to succeed.
-
-
-<h2 align="center">Fast learner</h2>
-
-+ add something about curiosity
-I consistently add value to my colleagues and employer in short space of time through the pace of my learning and my ability to assess the qualities and outcomes required by the role. 
-
-Experience / Achievement
-- MA examples - built xyz within 12 weeks  
-- STAT analysis and visualisation: members survey, resignation stats - within one year, automating input/output for financial admin. Value added: on leaving asked to stay on as lay member of Council 
-- Built insight macros NE & HC - within one year 
-
-(Experience, Achievements, Evidence)
-
-
 
 
 <h1 align="center"> Education</h1>
