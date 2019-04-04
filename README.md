@@ -23,38 +23,20 @@
 <br>
 
 <h1 align="center"> Skills</h1>
-<h2 align="center"> Clean coder</h2>
+<h2 align="center"> Writing Clean & Well-Crafted Code</h2>
 
-Makers instills industry best practices in its developers, all of the below projects were made by applying:
-
-* Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI etc.)
-* Clean code design and refactoring: SOLID, DRY, KISS + Sandi Metz's TRUE
-* Growth mindset and conscious methodical processes for debugging, researching, modelling etc.
+At Makers we’re taught the a range of industry best practices for multiple stages of the software cycle. Initially quite theoretical, their benefits quickly became concrete over the numerous group and individual projects. I’ve learnt and become a huge advocate for Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI), OOP, and clean code designed with SOLID, DRY, KISS + Sandi Metz's TRUE in mind.
 <br>
-<h2 align="center">Collaborative</h2>
-+ communication mention
-- Line mag, Journal: collab achievements
-- Exhibition w. Emilie: collab achievement
-- STAT: small office team rely on each other's support and supporting each other
+<h2 align="center">Collaboration & Communication</h2>
+The collaborating and communicating skills I’ve honed as an artist and writer were further developed by the pair programming and agile practices we were taught at Makers. Open, regular and constructive communication is hugely important to me and I always take steps to do what I can to ensure this happens in the teams I work in. I’ve consistently found that the most productive teams are those where everyone feels valued and heard and difficult conversations are approached with a no-blame solution-orientated approach. These are also the happiest teams!
 
 
-<h2 align="center">Diligent</h2> 
-Taking pride in work, code craftsmanship
-Attentive and diligent paragraph of how capable you are at this skill and, if relevant, how it has developed.
+<h2 align="center">Diligence & Attention to Detail</h2> 
+Whether it’s writing clean code or keeping on top of office administration, I take pleasure in doing things well and learning how they can be done better. For me attention to detail starts at the code I’ve written and keeps expanding from there: I’m passionate about details and consistency at all stages and environments of software development projects. I take as much pride in my code craftsmanship as I do in considerate communication, keeping the task board up to date or uniform commit messages (semantic commits, absolutely love them). 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
-<h2 align="center">Highly motivated</h2> 
-Determined / dedicated
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+<h2 align="center">High motivation & Independence </h2> 
+Solving problems, independent learning and working through adversity are hugely rewarding and motivating processes to me. As an artist I’m used to persevering through endless iterations of something ‘not working’ until I get the skills or knowledge required for a breakthrough. At Makers we develop conscious and methodical processes for how to solve problems and learn new skills. More importantly, I’ve practised these processes countless times on the course with really positive results. So when times are dark and I find I’ve made an incorrect assumption, or if there’s a nasty bug (or both, as it often goes) I know that I have the processes and motivation to succeed.
 
 
 <h2 align="center">Fast learner</h2>
@@ -69,20 +51,6 @@ Experience / Achievement
 
 (Experience, Achievements, Evidence)
 
-<h2 align="center">Flexible</h2>
-- Excelling in range of roles, all requiring different approaches: admin, project management, editing, writing, art practice 
-
-- STAT
-Overall role shifting: financial administration exanding to inc. branding & marketing contribution
-Daily role constantly shifting workflows
-
-- Artist practice
-A rich practice comes from being alert to the huge potential value of unexpected outcomes
-
-- Arts & Entertainment Editor
-Multiple variables (articles, images, writers, subeditors etc.) in constant flux - adapted to and kept track of to ensure copy got to print on time
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 
 
