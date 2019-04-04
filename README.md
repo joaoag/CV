@@ -29,8 +29,16 @@ Makers instills industry best practices in its developers, all of the above proj
 
 ## Skills
 
+Teamwork / communication Y "Highly collaborative"
+Enthusiasm / passion N 
+Determination / dedication / "Highly motivated"
+Craftsmanship / pride in your code "Diligent"
+Learning / curiosity "Fast learner"
+Flexibility
+
 #### Fast learner
 
++ add something about curiosity
 I consistently add value to my colleagues and employer in short space of time through the pace of my learning and my ability to assess the qualities and outcomes required by the role. 
 
 Experience / Achievement
@@ -55,33 +63,12 @@ Multiple variables (articles, images, writers, subeditors etc.) in constant flux
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-Teamwork / communication Y
-Enthusiasm / passion Y
-Determination / dedication / motivation Y
-Craftsmanship / pride in your code Y
-Understanding of the business side
-Learning / curiosity Y
-
-
 #### Collaborative
 + communication mention
 - Line mag, Journal: collab achievements
 - Exhibition w. Emilie: collab achievement
 - STAT: small office team rely on each other's support and supporting each other
 
-#### Curious
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Diligent 
 Taking pride in work, code craftsmanship
@@ -93,7 +80,7 @@ Attentive and diligent paragraph of how capable you are at this skill and, if re
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Highly motivated
-
+Determined / dedicated
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
