@@ -10,11 +10,12 @@
 
 <h2 align="center"> Processes</h2>
 
-Makers instills industry best practices in its developers, all of the above projects were made by applying:
+Makers instills industry best practices in its developers, all of the below projects were made by applying:
 
 * Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI etc.)
 * Clean code design and refactoring: SOLID, DRY, KISS + Sandi Metz's TRUE
 * Growth mindset and conscious methodical processes for debugging, researching, modelling etc.
+
 <h2 align="center"> Projects</h2>
 
 |**Project**|**Timeframe**|**Description**|**Languages & Technologies**|
