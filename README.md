@@ -12,12 +12,12 @@
 
 |**Project**|**Timeframe**|**Description**|**Languages & Technologies**|
 |:-----:|:-----:|:-----:|:-----:|
-|KeepAhead [Front End](https://github.com/jaywayawyaj/KeepAheadReactFrontEnd/) [Back End](https://github.com/jaywayawyaj/KeepAhead_RailsAPI)| 2 weeks|Final project at Makers Academy | Javascript, JSX, React.js, CSS, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge</br> Tested with Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
-|Gilded Rose JS| 3 days | Tech test week project | Javascript</br> Tested with Jasmine, ESlint |
-|Bank Tech Test | 3 days | Tech test week project | Ruby</br> Tested with RSpec, SimpleCov, Rubocop |
-|Chitter | 2 days | Twitter clone | Ruby, Sinatra, Datamapper</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
-|Instaclone | 2 days| Title says it all... | Ruby, Rails, ActiveRecord, PostgreSQL, HTML, CSS</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
-| Event Planner (SPA) | 4 days | JS event planner | Javascript, HTML, CSS</br> Tested with Jasmine and my custom testing framework |
+|KeepAhead [Front End](https://github.com/joaoag/react_front_end_hhh) [Back End](https://github.com/joaoag/KeepAhead_RailsAPI)| 2 weeks|Final project at Makers Academy | Javascript, JSX, React.js, CSS, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge</br> Tested with Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
+|[Gilded Rose JS](https://github.com/joaoag/GildedRose-JS)| 3 days | Tech test week project | Javascript</br> Tested with Jasmine, ESlint |
+|[Bank Tech Test](https://github.com/joaoag/bank_tech_test) | 3 days | Tech test week project | Ruby</br> Tested with RSpec, SimpleCov, Rubocop |
+|[Chitter](https://github.com/joaoag/chitter-challenge) | 2 days | Twitter clone | Ruby, Sinatra, Datamapper</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
+|[Instaclone](https://github.com/joaoag/Instaclone) | 2 days| Title says it all... | Ruby, Rails, ActiveRecord, PostgreSQL, HTML, CSS</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
+|[Event Planner (SPA)](https://github.com/joaoag/event_planner_spa_js) | 4 days | JS event planner | Javascript, HTML, CSS</br> Tested with Jasmine and my custom testing framework |
 
 #### Processes
 
