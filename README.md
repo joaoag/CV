@@ -41,10 +41,10 @@ Solving problems, independent learning and working through adversity are hugely 
 
 <h1 align="center"> Previous work & education </h1>
 <h2> Education </h2>
-#### Nov 2018 - Mar 2019: Makers Academy
-#### 2008-2013: University of Edinburgh: MA Fine Art, Honours History of Art. 2:1 (Distinction in History of Art, [Huntly MacDonald Sinclair Travelling Scholarship](https://www.ed.ac.uk/student-funding/current-students/university-prizes-awards/humanities/history-art)
-#### 2007-2008: Cambridge Regional College: Art Foundation.
-#### 2005-2007: Hills Road Sixth Form: A-levels. AAA (Art, PE and Philosophy)
+Nov 2018 - Mar 2019: Makers Academy</br>
+2008-2013: University of Edinburgh: MA Fine Art, Honours History of Art. 2:1 (Distinction in History of Art, [Huntly MacDonald Sinclair Travelling Scholarship](https://www.ed.ac.uk/student-funding/current-students/university-prizes-awards/humanities/history-art)</br>
+2007-2008: Cambridge Regional College: Art Foundation.</br>
+2005-2007: Hills Road Sixth Form: A-levels. AAA (Art, PE and Philosophy)</br>
 
 ## Exhibitions & Publications
 #### Overview of my writing, editing, design and exhibition history [here](https://files.cargocollective.com/344894/J-Abbott-Gribben-CV-May-2018.pdf)
