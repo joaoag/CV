@@ -47,8 +47,8 @@ Solving problems, independent learning and working through adversity are hugely 
 #### 2005-2007: Hills Road Sixth Form: A-levels. AAA (Art, PE and Philosophy)
 
 ## Exhibitions & Publications
-Overview of my writing, editing, design and exhibition history [here](https://files.cargocollective.com/344894/J-Abbott-Gribben-CV-May-2018.pdf)</br>
-Photographic documentation and exhibition texts of my most recent exhibitions [here](https://joaoabbottgribben.com/Exhibitions)
+#### Overview of my writing, editing, design and exhibition history [here](https://files.cargocollective.com/344894/J-Abbott-Gribben-CV-May-2018.pdf)
+#### Photographic documentation and exhibition texts of my most recent exhibitions [here](https://joaoabbottgribben.com/Exhibitions)
 
 ## Office-based roles
 **Society of Teachers of the Alexander Technique** (Nov 2018 - present)   
