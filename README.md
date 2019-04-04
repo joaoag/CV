@@ -39,7 +39,7 @@ Whether it’s writing clean code or keeping on top of office administration, I 
 Solving problems, independent learning and working through adversity are hugely rewarding and motivating processes to me. As an artist I’m used to persevering through endless iterations of something ‘not working’ until I get the skills or knowledge required for a breakthrough. At Makers we develop conscious and methodical processes for how to solve problems and learn new skills. More importantly, I’ve practised these processes countless times on the course with really positive results. So when times are dark and I find I’ve made an incorrect assumption, or if there’s a nasty bug (or both, as it often goes) I know that I have the processes and motivation to succeed.
 
 
-<h1 align="center"> Education</h1>
+<h1 align="center"> Previous work & education </h1>
 
 #### Nov 2018 - Mar 2019: Makers Academy
 #### 2008-2013: University of Edinburgh: MA Fine Art, Honours History of Art. 2:1 (Distinction in History of Art, [Huntly MacDonald Sinclair Travelling Scholarship](https://www.ed.ac.uk/student-funding/current-students/university-prizes-awards/humanities/history-art)
@@ -50,7 +50,7 @@ Solving problems, independent learning and working through adversity are hugely 
 Overview of my writing, editing, design and exhibition history [here](https://files.cargocollective.com/344894/J-Abbott-Gribben-CV-May-2018.pdf)</br>
 Photographic documentation and exhibition texts of my most recent exhibitions [here](https://joaoabbottgribben.com/Exhibitions)
 
-## Experience
+## Office-based roles
 **Society of Teachers of the Alexander Technique** (Nov 2018 - present)   
 *Member of Council*  
 **Society of Teachers of the Alexander Technique** (Nov 2016 - Nov 2018)     
