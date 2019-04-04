@@ -12,22 +12,20 @@
 
 |**Project**|**Timeframe**|**Description**|**Languages & Technologies**|
 |:-----:|:-----:|:-----:|:-----:|
-|KeepAhead [Front End](https://github.com/joaoag/react_front_end_hhh)</br> [Back End](https://github.com/joaoag/KeepAhead_RailsAPI)| 2 weeks| Final project at Makers Academy. Designed to meet the need of giving to those less fortunate in an increasingly cashless world. KeepAhead allows you to donate food and drink at nearby cafes to those less fortunate. The recipient doesn't need a phone, they just need to say the passphrase linked to their donation once they're in the shop. We wanted to balance technical difficulty, having a happy team and making a product that would do social good. | Javascript, React.js, CSS, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge</br> Tested with Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
+|KeepAhead [Front End](https://github.com/joaoag/react_front_end_hhh)</br> [Back End](https://github.com/joaoag/KeepAhead_RailsAPI)| 2 weeks| Final project at Makers Academy. Designed to meet the challenge of giving in an increasingly cashless world, KeepAhead allows you to donate food and drink at nearby cafes to those less fortunate. The recipient doesn't need a phone, they just need to say the passphrase linked to their donation once they're in the shop. Our priority was a balance of technical difficulty, having a happy team and making a product that would do social good. | Javascript, React.js, CSS, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge</br> Tested with Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
 |[Gilded Rose JS](https://github.com/joaoag/GildedRose-JS)| 3 days | A classic refactoring exercise, really enjoyed TDD-wrestling  the longest if statement I've ever seen into something that adheres to DRY, SRP, LoD etc. | Javascript</br> Tested with Jasmine, ESlint |
 |[Bank Tech Test](https://github.com/joaoag/bank_tech_test) | 3 days | Another refactoring exercise, after meeting MVP increasingly strict code design requirements are set (all methods < 5 lines etc.). Bar four line count warnings I met all the 'strict' set of requirements as outlined in the README  | Ruby</br> Tested with RSpec, SimpleCov, Rubocop |
-|[Chitter](https://github.com/joaoag/chitter-challenge) | 2 days | A twitter clone made in week 5 of Makers, very happy with balance struck between front end appearance and the back end functionality. | Ruby, Sinatra, Datamapper</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
+|[Chitter](https://github.com/joaoag/chitter-challenge) | 2 days | A twitter clone made in week 5 of Makers, very happy with outcomes across the stack. | Ruby, Sinatra, Datamapper</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
 |[Instaclone](https://github.com/joaoag/Instaclone) | 2 days| Made in week 8 of Makers, working with images and rails was very satisfying and again I was happy with the balance between front and back end performance. | Ruby, Rails, ActiveRecord, PostgreSQL, HTML, CSS</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
-|[Event Planner (SPA)](https://github.com/joaoag/event_planner_spa_js) | 4 days | Second week of using javascript so was pleased to implement local storage and get my app talking to a weather API. | Javascript, HTML, CSS</br> Tested with Jasmine and my custom testing framework |
+|[Event Planner (SPA)](https://github.com/joaoag/event_planner_spa_js) | 4 days | Second week of using javascript so was pleased to implement local storage and get my app talking to a weather API. Tested using a framework written the week prior. | Javascript, HTML, CSS</br> Tested with Jasmine and my custom testing framework |
 
 #### Processes
 
-Alongisde learning to code, Makers instills industry best practices in its developers. These are some of the processes I've come to love:
+Makers instills industry best practices in its developers, all of the above projects were made by applying:
 
-* Agile working practices: 
-* TDD
-* Git workflow
-* Clean code: SOLID, DRY, KISS + Sandi Metz's TRUE
-* Growth mindset and independent learning
+* Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI etc.)
+* Clean code design and refactoring: SOLID, DRY, KISS + Sandi Metz's TRUE
+* Growth mindset and conscious methodical processes for debugging, researching, modelling etc.
 
 ## Skills
 
