@@ -102,6 +102,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Society of Teachers of the Alexander Technique** (Nov 2016 - Nov 2018)     
 *Administrative Officer*  
 **Harlow Council** (Sep 2014 - Nov 2016)   
-*Technical & Administrative Support Officer*
+*Technical & Administrative Support Officer*  
 **Natural England** (Sep 2013 – Sep 2014)
 *Customer Advisor*
