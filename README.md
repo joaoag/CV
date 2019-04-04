@@ -12,8 +12,8 @@
 
 |**Project**|**Timeframe**|**Description**|**Languages & Technologies**|
 |:-----:|:-----:|:-----:|:-----:|
-|KeepAhead [Front End](https://github.com/joaoag/react_front_end_hhh) [Back End](https://github.com/joaoag/KeepAhead_RailsAPI)| 2 weeks|Final project at Makers Academy | Javascript, JSX, React.js, CSS, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge</br> Tested with Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
-|[Gilded Rose JS](https://github.com/joaoag/GildedRose-JS)| 3 days | Tech test week project | Javascript</br> Tested with Jasmine, ESlint |
+|KeepAhead [Front End](https://github.com/joaoag/react_front_end_hhh)</br> [Back End](https://github.com/joaoag/KeepAhead_RailsAPI)| 2 weeks| Final project at Makers Academy. Designed to meet the need of giving to those less fortunate in an increasingly cashless world. KeepAhead allows you to donate food and drink at nearby cafes to those less fortunate. The recipient doesn't need a phone, they just need to say the passphrase linked to their donation once they're in the shop. We wanted to balance technical difficulty, having a happy team and making a product that would do social good. | Javascript, React.js, CSS, Ruby on Rails, PostgreSQL, ActiveRecord, Google Maps API, Stripe API, Heroku, Surge</br> Tested with Jest, Enzyme, ESlint, RSpec, SimpleCov, Rubocop |
+|[Gilded Rose JS](https://github.com/joaoag/GildedRose-JS)| 3 days | A classic refactoring exercise, really enjoyed wrestling with the longest if statement I've ever seen to create something much cleaner. | Javascript</br> Tested with Jasmine, ESlint |
 |[Bank Tech Test](https://github.com/joaoag/bank_tech_test) | 3 days | Tech test week project | Ruby</br> Tested with RSpec, SimpleCov, Rubocop |
 |[Chitter](https://github.com/joaoag/chitter-challenge) | 2 days | Twitter clone | Ruby, Sinatra, Datamapper</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
 |[Instaclone](https://github.com/joaoag/Instaclone) | 2 days| Title says it all... | Ruby, Rails, ActiveRecord, PostgreSQL, HTML, CSS</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
