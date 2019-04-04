@@ -60,13 +60,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Collaborative
+Teamwork / communication Y
+Enthusiasm / passion Y
+Determination / dedication / motivation Y
+Craftsmanship / pride in your code Y
+Understanding of the business side
+Learning / curiosity Y
 
+
+#### Collaborative
++ communication mention
 - Line mag, Journal: collab achievements
 - Exhibition w. Emilie: collab achievement
 - STAT: small office team rely on each other's support and supporting each other
 
-#### Creative
+#### Curious
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -76,7 +84,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Diligent 
-
+Taking pride in work, code craftsmanship
 Attentive and diligent paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
