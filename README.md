@@ -37,7 +37,8 @@ Craftsmanship / pride in your code "Diligent"
 Learning / curiosity "Fast learner"
 Flexibility
 
-#### Curiosity & fast learning
+<h2 align="center">Curiosity & fast learning</h2>
+
 
 + add something about curiosity
 I consistently add value to my colleagues and employer in short space of time through the pace of my learning and my ability to assess the qualities and outcomes required by the role. 
@@ -49,7 +50,7 @@ Experience / Achievement
 
 (Experience, Achievements, Evidence)
 
-#### Flexible
+<h2 align="center">Flexible</h2>
 - Excelling in range of roles, all requiring different approaches: admin, project management, editing, writing, art practice 
 
 - STAT
@@ -64,14 +65,14 @@ Multiple variables (articles, images, writers, subeditors etc.) in constant flux
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-#### Collaborative
+<h2 align="center">Collaborative</h2>
 + communication mention
 - Line mag, Journal: collab achievements
 - Exhibition w. Emilie: collab achievement
 - STAT: small office team rely on each other's support and supporting each other
 
 
-#### Diligent 
+<h2 align="center">Diligent</h2> 
 Taking pride in work, code craftsmanship
 Attentive and diligent paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -80,7 +81,7 @@ Attentive and diligent paragraph of how capable you are at this skill and, if re
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Highly motivated
+<h2 align="center">Highly motivated</h2> 
 Determined / dedicated
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -89,7 +90,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+<h1 align="center"> Education</h1>
 
 #### Makers Academy (November 2018 - March 2019)
 
