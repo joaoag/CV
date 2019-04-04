@@ -17,7 +17,7 @@
 |[Bank Tech Test](https://github.com/joaoag/bank_tech_test) | 3 days | Another refactoring exercise, after meeting MVP increasingly strict code design requirements are set (all methods < 5 lines etc.). Bar four line count warnings I met all the 'strict' set of requirements as outlined in the README  | Ruby</br> Tested with RSpec, SimpleCov, Rubocop |
 |[Chitter](https://github.com/joaoag/chitter-challenge) | 2 days | A twitter clone made in week 5 of Makers, very happy with balance struck between front end appearance and the back end functionality. | Ruby, Sinatra, Datamapper</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
 |[Instaclone](https://github.com/joaoag/Instaclone) | 2 days| Made in week 8 of Makers, working with images and rails was very satisfying and again I was happy with the balance between front and back end performance. | Ruby, Rails, ActiveRecord, PostgreSQL, HTML, CSS</br> Tested with RSpec, SimpleCov, Capybara, Rubocop |
-|[Event Planner (SPA)](https://github.com/joaoag/event_planner_spa_js) | 4 days | Only the second week of using javascript so please with being able to implement local storage and get my app talking to a weather API. | Javascript, HTML, CSS</br> Tested with Jasmine and my custom testing framework |
+|[Event Planner (SPA)](https://github.com/joaoag/event_planner_spa_js) | 4 days | Second week of using javascript so was pleased to implement local storage and get my app talking to a weather API. | Javascript, HTML, CSS</br> Tested with Jasmine and my custom testing framework |
 
 #### Processes
 
