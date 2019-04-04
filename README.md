@@ -98,7 +98,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 **Society of Teachers of the Alexander Technique** (Nov 2018 - present)
-*Member of Council*  
+*Member of Council*
 **Society of Teachers of the Alexander Technique** (Nov 2016 - Nov 2018)    
 *Administrative Officer*  
 **Harlow Council** (Sep 2014 - Nov 2016)   
