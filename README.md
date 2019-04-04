@@ -43,10 +43,8 @@ Solving problems, independent learning and working through adversity are hugely 
 
 #### Nov 2018 - Mar 2019: Makers Academy
 #### 2008-2013: University of Edinburgh: MA Fine Art, Honours History of Art. 2:1 (Distinction in History of Art, [Huntly MacDonald Sinclair Travelling Scholarship](https://www.ed.ac.uk/student-funding/current-students/university-prizes-awards/humanities/history-art)
-#### 2007-2008: Cambridge Regional College: Art Foundation. Pass
+#### 2007-2008: Cambridge Regional College: Art Foundation.
 #### 2005-2007: Hills Road Sixth Form: A-levels. AAA (Art, PE and Philosophy)
-
-#### Any other qualifications
 
 ## Experience
 **Society of Teachers of the Alexander Technique** (Nov 2018 - present)   
