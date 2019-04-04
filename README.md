@@ -26,8 +26,9 @@ Makers instills industry best practices in its developers, all of the above proj
 * Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI etc.)
 * Clean code design and refactoring: SOLID, DRY, KISS + Sandi Metz's TRUE
 * Growth mindset and conscious methodical processes for debugging, researching, modelling etc.
+<br>
 
-## Skills
+<h1 align="center"> Skills</h1>
 
 Teamwork / communication Y "Highly collaborative"
 Enthusiasm / passion N 
