@@ -25,7 +25,7 @@
 <h1 align="center"> Skills</h1>
 <h2 align="center"> Writing clean & well-crafted code</h2>
 
-At Makers we’re taught the a range of industry best practices for multiple stages of the software cycle. Initially quite theoretical, their benefits quickly became concrete over the numerous group and individual projects. I’ve learnt and become a huge advocate for Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI), OOP, and clean code designed with SOLID, DRY, KISS + Sandi Metz's TRUE in mind.
+At Makers we’re taught the a range of industry best practices for multiple stages of the software cycle. Initially quite theoretical, their benefits quickly became concrete over the numerous group and individual projects. I’ve learnt and become a huge advocate for Agile product development, particularly XP values and rules (TDD, pair programming, version control, CI), and clean code designed with SOLID, DRY, KISS + Sandi Metz's TRUE in mind.
 <br>
 <h2 align="center">Collaboration & communication</h2>
 The collaborating and communicating skills I’ve honed as an artist and writer were further developed by the pair programming and agile practices we were taught at Makers. Open, regular and constructive communication is hugely important to me and I always take steps to do what I can to ensure this happens in the teams I work in. I’ve consistently found that the most productive teams are those where everyone feels valued and heard and difficult conversations are approached with a no-blame solution-orientated approach. These are also the happiest teams!
@@ -45,6 +45,10 @@ Solving problems, independent learning and working through adversity are hugely 
 #### 2008-2013: University of Edinburgh: MA Fine Art, Honours History of Art. 2:1 (Distinction in History of Art, [Huntly MacDonald Sinclair Travelling Scholarship](https://www.ed.ac.uk/student-funding/current-students/university-prizes-awards/humanities/history-art)
 #### 2007-2008: Cambridge Regional College: Art Foundation.
 #### 2005-2007: Hills Road Sixth Form: A-levels. AAA (Art, PE and Philosophy)
+
+<h1 align="center"> Exhibitions / Publications </h1>
+Overview of my writing, editing, design and exhibition history [here](https://files.cargocollective.com/344894/J-Abbott-Gribben-CV-May-2018.pdf)
+Photographic documentation and exhibition texts of my most recent [exhibitions](https://joaoabbottgribben.com/Exhibitions)
 
 ## Experience
 **Society of Teachers of the Alexander Technique** (Nov 2018 - present)   
