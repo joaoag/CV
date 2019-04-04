@@ -89,16 +89,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 <h1 align="center"> Education</h1>
 
-#### November 2018 - March 2019: Makers Academy
-#### 2008-2013: University of Edinburgh: MA Fine Art, Honours History of Art. 2:1 (Distinction History of Art)
-#### 2007-2008: Cambridge Regional College: Art Foundation
-#### 2005-2007: Hills Road Sixth Form  Art A, PE A, Philosophy A
+#### Nov 2018 - Mar 2019: Makers Academy
+#### 2008-2013: University of Edinburgh: MA Fine Art, Honours History of Art. 2:1 (Distinction in History of Art)
+#### 2007-2008: Cambridge Regional College: Art Foundation. Pass
+#### 2005-2007: Hills Road Sixth Form: A-levels. AAA (Art, PE and Philosophy)
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Society of Teachers of the Alexander Technique** (Nov 2016 - October)    
+*Administrative Officer*  
+**Harlow Council** (Sep 2014 - Nov 2016)   
+*Technical & Administrative Support Officer*
+**Natural England**(Sep 2013 – Sep 2014)
+*Support Advisor*
