@@ -32,7 +32,8 @@ The collaborating and communicating skills I’ve honed as an artist and writer 
 
 
 <h2 align="center">Diligence & attention to detail</h2> 
-Whether it’s writing clean code or keeping on top of office administration, I take pleasure in doing things well and learning how they can be done better. For me attention to detail starts at the code I’ve written and keeps expanding from there: I’m passionate about details and consistency at all stages and environments of software development projects. I take as much pride in my code craftsmanship as I do in considerate communication, keeping the task board up to date or uniform commit messages ([semantic commits](https://seesparkbox.com/foundry/semantic_commit_messages)) , absolutely love them). 
+Whether it’s writing clean code or keeping on top of office administration, I take pleasure in doing things well and learning how they can be done better. For me attention to detail starts at the code I’ve written and keeps expanding from there: I’m passionate about details and consistency at all stages and environments of software development projects. I take as much pride in my code craftsmanship as I do in considerate communication, keeping the task board up to date or uniform commit messages (
+<a href="https://seesparkbox.com/foundry/semantic_commit_messages">semantic commits</a> , absolutely love them). 
 
 
 <h2 align="center">High motivation & independence </h2> 
